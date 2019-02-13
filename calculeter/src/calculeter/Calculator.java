@@ -1,13 +1,13 @@
 
 
-package calculeter;
+package calculator;
 
 import java.util.Scanner;
 
    
 
 
-public class Calculater {
+public class Calculator {
 static int a,b;
 
 }
